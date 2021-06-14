@@ -1,3 +1,2 @@
 #!/bin/bash
-This is a repository for project 0x00-shell_basics
-
+This is a repository for all alx-system-engineering-devops projects
