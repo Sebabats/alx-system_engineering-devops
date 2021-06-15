@@ -1,2 +1,2 @@
 #!/bin/bash
-cat head -n 3 /root/iacta | tail -n 1
+cat head -n 3 /root/alx-system_engineering-devops/0x02-shell_redirections/iacta | tail -n 1
